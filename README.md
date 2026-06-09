@@ -8,4 +8,4 @@
 
 • 💃 In my free time I enjoy yoga, reading and exploring new hiking places.
 
-• 📬 If you are interested in connecting, you can reach me on [Linkedin](https://www.linkedin.com/in/yuxicong/) or by email @ yuxicongcareers@gmail.com
+• 📬 If you are interested in connecting, you can reach me on [Linkedin](https://www.linkedin.com/in/yuxicong/) or by email @ cong.career@gmail.com
