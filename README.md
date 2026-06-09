@@ -2,7 +2,7 @@
 
 • 😁 Welcome to my Github!
 
-• 👩‍🎓 I’m a marketing and supply chain background turning data scientist.
+• 👩‍🎓 I’m a supply chain background turning data alalyst.
 
 •📓 I am extremely interested in real life topics like retails, finance, supply chain and health care! In my capstone of bootcamp, I used machine learning to develop a model that quantifies the relative advantage of buying vs. waiting to purchase common consumer electronics. You can find my Jupyter notebook with codes and slides of project on this Github page.
 
