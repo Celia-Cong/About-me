@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-• 😁 This is Yuxi and welcome to my Github!
+• 😁 Welcome to my Github!
 
 • 👩‍🎓 I’m a marketing and supply chain background turning data scientist.
 
